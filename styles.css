@@ -1,0 +1,78 @@
+.backgroundImage {
+  background: url("/images/your_verse_hero.jpg")50% 100% no-repeat;
+  height: 550px;
+  width: 1440px;
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.navbar{
+    position: relative;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.2) 0, rgba(0, 0, 0, 0) 5, rgba(0, 0, 0, 0) 97, rgba(0, 0, 0, 0.45) 100);
+    width: 980px;
+    height: 40px;
+    display: block;
+}
+.nav {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    border-radius: 3%;
+    height: 36px;
+    width: 980px;
+    background: linear-gradient(#6d6d6d 48%,#5e5e5e 4%, #888888 48%);
+    margin: 0px 12px 30px 12px;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
+  }
+
+  .navTop{
+      margin-top: 40px;
+  }
+
+  .lineItems{
+      border: 1px solid #ccc;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+      text-align: center;
+      font-size: 12px;
+      list-style: none;
+        height: 100%;
+      display: table-cell;
+      width: auto;
+  
+      color: aliceblue;
+       }
+
+  .list{
+      width: 100%;
+      display: table;
+      flex-wrap: nowrap;
+      
+  }
+
+  .appleLogo{
+      width: 20px;
+  }
+.imageList{
+    margin-top: 0px;
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    list-style: none;
+    max-width: 1440px;
+    width: 1440px;
+    display: flex;
+    flex-wrap: wrap;
+}
+.imagebelow{
+ display: block;
+  width: 360px;
+  max-width: 360px;
+}
+.images{
+    width: 1440px;
+margin-left: auto;
+margin-right: auto;}
