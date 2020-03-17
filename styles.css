@@ -21,7 +21,7 @@
   height: 36px;
   width: 980px;
   background: linear-gradient(#707070 50%, #5f5f5f 55%, #757575);
-  margin: 0px auto 0px auto;
+  margin: 0% auto 0% auto;
   border-radius: 5px;
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
 }
@@ -47,8 +47,8 @@
   width: 100%;
   display: table;
   flex-wrap: wrap;
-  margin-top: 0px;
-  margin-bottom: 0px;
+  margin-top: 0%;
+  margin-bottom: 0%;
   padding-left: 0;
 }
 
@@ -67,8 +67,8 @@
 }
 
 .imageList {
-  margin-top: 0px;
-  padding-left: 0px;
+  margin-top: 0%;
+  padding-left: 0%;
   margin-left: auto;
   margin-right: auto;
   list-style: none;
@@ -124,8 +124,7 @@
   color: white;
 }
 
-.noStyle1
-{
+.noStyle1 {
   padding: 0%;
   text-decoration: none;
   margin: 0 0 0 10px;
