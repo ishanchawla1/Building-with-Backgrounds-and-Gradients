@@ -8,7 +8,7 @@
   display: block;
 }
 
-.navbar{
+.navbar {
   position: relative;
   height: 40px;
   display: block;
@@ -26,7 +26,7 @@
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
 }
 
-  .navTop{
+  .navTop {
   margin-top: 40px;
   }
 
@@ -66,7 +66,7 @@
   flex-wrap: wrap;
 }
 
-.imageList{
+.imageList {
   margin-top: 0px;
   padding-left: 0px;
   margin-left: auto;
@@ -79,17 +79,18 @@
   flex-wrap: wrap;
 }
 
-.imagebelow{
+.imagebelow {
   display: block;
   width: 360px;
   max-width: 360px;
 }
-.images{
+.images {
   width: 1440px;
   margin-left: auto;
-  margin-right: auto;}
+  margin-right: auto;
+}
 
-#searchText{
+#searchText {
   margin-left: 15px;
   float: right;
   padding-left: 25px;
@@ -116,7 +117,7 @@
   background-image: url("/images/search-13-16.png");
 }
 
-.noStyle{
+.noStyle {
   padding: 0%;
   margin: 0%;
   color: white;
