@@ -13,6 +13,7 @@
   height: 40px;
   display: block;
 }
+
 .nav {
   position: relative;
   display: flex;
@@ -26,9 +27,9 @@
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
 }
 
-  .navTop {
+.navTop {
   margin-top: 40px;
-  }
+}
 
 .lineItems {
   border: 1px solid #ccc;
@@ -37,7 +38,7 @@
   vertical-align: middle;
   font-size: 12px;
   height: 36px;
-  width:105.625px;
+  width: 105.625px;
   list-style: none;
   display: table-cell;
   color: aliceblue;
@@ -84,6 +85,7 @@
   width: 360px;
   max-width: 360px;
 }
+
 .images {
   width: 1440px;
   margin-left: auto;
@@ -119,10 +121,53 @@
 
 .noStyle {
   padding: 0%;
+  text-decoration: none;
   margin: 0%;
   color: white;
 }
 
 ul li:hover {
   background:linear-gradient(#707070 0%, #25292e 100%, #757575 0%);
+}
+
+.mainText {
+  font-family: "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  margin: 40px auto 5px auto;
+  text-align: center;
+  width: 1040px;
+  color: white;
+}
+
+.mainText h1 {
+  font-size: 64px;
+  font-weight: 100;
+}
+
+.mainText h2 {
+  font-size: 32px;
+  font-weight: 100;
+}
+
+.mainText h3 {
+  font-size: 24px;
+  font-weight: 100;
+}
+
+.thirdText {
+ width: 600px;
+ margin-left: auto;
+ margin-right: auto;
+ max-width: 600px;
+  display: flex;
+  flex-wrap: nowrap;
+}
+.playimage {
+  margin-top: 20px;
+  margin-left: 8px;
+  width: 30px;
+  height: 30px;
+}
+
+.thirdText h3 a:hover{
+  text-decoration: underline;
 }
