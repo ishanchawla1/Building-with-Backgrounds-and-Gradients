@@ -1,5 +1,5 @@
 .backgroundImage {
-  background: url("/images/your_verse_hero.jpg")   50% 100% no-repeat;
+  background: url("images/your_verse_hero.jpg")   50% 100% no-repeat;
   height: 550px;
   width: 1440px;
   max-width: 1440px;
@@ -114,7 +114,7 @@
   background-color: #757575;
   margin-left: 20px;
   color: white;
-  background-image: url("/images/search-13-16.png");
+  background-image: url("images/search-13-16.png");
 }
 
 .noStyle {
