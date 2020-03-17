@@ -1,5 +1,5 @@
 .backgroundImage {
-  background: url("/images/your_verse_hero.jpg")50% 100% no-repeat;
+  background: url("/images/your_verse_hero.jpg")   50% 100% no-repeat;
   height: 550px;
   width: 1440px;
   max-width: 1440px;
@@ -18,11 +18,10 @@
   position: relative;
   display: flex;
   flex-wrap: wrap;
-  border-radius: 3%;
   height: 36px;
   width: 980px;
   background: linear-gradient(#707070 50%, #5f5f5f 55%, #757575);
-  margin: 0 auto 0px auto;
+  margin: 0px auto 0px auto;
   border-radius: 5px;
   box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
 }
@@ -72,7 +71,6 @@
   padding-left: 0px;
   margin-left: auto;
   margin-right: auto;
-  display: block;
   list-style: none;
   max-width: 1440px;
   width: 1440px;
@@ -126,8 +124,23 @@
   color: white;
 }
 
-ul li:hover {
-  background:linear-gradient(#707070 0%, #25292e 100%, #757575 0%);
+.noStyle1
+{
+  padding: 0%;
+  text-decoration: none;
+  margin: 0 0 0 10px;
+  color: #08c;
+  font-size: 12px;
+  display: table-cell;
+  list-style: none;
+}
+
+.nav ul li:hover {
+  background: linear-gradient(#707070 0%, #25292e 100%, #757575 0%);
+}
+
+.footerLeft > p:nth-child(1) {
+  margin-top: 19px;
 }
 
 .mainText {
@@ -154,13 +167,14 @@ ul li:hover {
 }
 
 .thirdText {
- width: 600px;
- margin-left: auto;
- margin-right: auto;
- max-width: 600px;
+  width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 600px;
   display: flex;
   flex-wrap: nowrap;
 }
+
 .playimage {
   margin-top: 20px;
   margin-left: 8px;
@@ -168,6 +182,53 @@ ul li:hover {
   height: 30px;
 }
 
-.thirdText h3 a:hover{
+.thirdText h3 a:hover {
+  text-decoration: underline;
+}
+
+.footerFlex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.footerLeft {
+  float: left;
+  font-size: 12px;
+}
+
+.table {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.listItem {
+  margin-top: 5px;
+  list-style: none;
+  margin-left: 10px;
+  padding-right: 6px;
+  border-right: 1px solid gray;
+}
+
+.image {
+  list-style: none;
+  margin-left: 10px;
+  margin-top: 2px;
+}
+
+.footerFlag {
+  width: 15px;
+}
+
+.blue {
+  color: #08c;
+  text-decoration: none;
+}
+
+.footerLeft p a:hover {
+  text-decoration: underline;
+}
+
+.footerRight ul li a:hover {
   text-decoration: underline;
 }
