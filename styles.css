@@ -9,115 +9,119 @@
 }
 
 .navbar{
-    position: relative;
-    height: 40px;
-    display: block;
+  position: relative;
+  height: 40px;
+  display: block;
 }
 .nav {
-    position: relative;
-    display: flex;
-    flex-wrap: wrap;
-    border-radius: 3%;
-    height: 36px;
-    width: 980px;
-    background: linear-gradient(#707070 50%, #5f5f5f 55%, #757575);
-    margin: 0 auto 0px auto;
-    border-radius: 5px;
-    box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
-  }
+  position: relative;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 3%;
+  height: 36px;
+  width: 980px;
+  background: linear-gradient(#707070 50%, #5f5f5f 55%, #757575);
+  margin: 0 auto 0px auto;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0 1px 2px;
+}
 
   .navTop{
-      margin-top: 40px;
+  margin-top: 40px;
   }
 
-  .lineItems{
-      border: 1px solid #ccc;
-      font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
-      text-align: center;
-      vertical-align: middle;
-      font-size: 12px;
-      height: 36px;
-      width:105.625px;
-      list-style: none;
-      display: table-cell;
-      color: aliceblue;
-       }
+.lineItems {
+  border: 1px solid #ccc;
+  font-family: "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 12px;
+  height: 36px;
+  width:105.625px;
+  list-style: none;
+  display: table-cell;
+  color: aliceblue;
+}
 
-  .list{
-      width: 100%;
-      display: table;
-      flex-wrap: wrap;
-      margin-top: 0px;
-margin-bottom: 0px;
-padding-left: 0;
+.list {
+  width: 100%;
+  display: table;
+  flex-wrap: wrap;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  padding-left: 0;
+}
 
-      
-  }
-  .appleLogo{
-      width: 20px;
-  }
+.appleLogo {
+  width: 20px;
+}
+
 .searchBar {
-    margin-top: 8px;
-    margin-bottom: 8px;
-    border-radius: 5%;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  border-radius: 5%;
   width: 132px;
   height: 20px;
   display: flex;
   flex-wrap: wrap;
 }
 
-
 .imageList{
-    margin-top: 0px;
-    padding-left: 0px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    list-style: none;
-    max-width: 1440px;
-    width: 1440px;
-    display: flex;
-    flex-wrap: wrap;
+  margin-top: 0px;
+  padding-left: 0px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  list-style: none;
+  max-width: 1440px;
+  width: 1440px;
+  display: flex;
+  flex-wrap: wrap;
 }
+
 .imagebelow{
- display: block;
+  display: block;
   width: 360px;
   max-width: 360px;
 }
 .images{
-    width: 1440px;
-margin-left: auto;
-margin-right: auto;}
+  width: 1440px;
+  margin-left: auto;
+  margin-right: auto;}
 
 #searchText{
-    margin-left: 15px;
-    float: right;
-    padding-left: 25px;
-    width: 80px;
-    height: 15px;
-    border-top: 2px solid #464343;
-    border-bottom: 2px solid #757575;
-    border-right: 1px solid #464343;
-    border-left: 1px solid #464343;
-    color: white;
-    border-radius: 15px;
-    background: linear-gradient(#707070 50%, #5f5f5f 55%, #757575);
+  margin-left: 15px;
+  float: right;
+  padding-left: 25px;
+  width: 80px;
+  height: 15px;
+  border-top: 2px solid #464343;
+  border-bottom: 2px solid #757575;
+  border-right: 1px solid #464343;
+  border-left: 1px solid #464343;
+  color: white;
+  border-radius: 15px;
+  background: linear-gradient(#707070 50%, #5f5f5f 55%, #757575);
 }
 
-.searchIcon{
-    height: 16px;
-    margin-left: 10px;
-    margin-right: 10px;
+.searchLogo {
+  position: absolute;
+  top: 12px;
+  width: 16px;
+  height: 16px;
+  float: left;
+  background-color: #757575;
+  margin-left: 20px;
+  color: white;
+  background-image: url("/images/search-13-16.png");
 }
 
-.fa {
-    position: absolute;
-    top: 12px;
-    width: 16px;
-    height: 16px;
-    float: left;
-    background-color: #757575;
-    margin-left: 20px;
-    color: white;
-    background-image: url("/images/search-13-16.png");
-  }
+.noStyle{
+  padding: 0%;
+  margin: 0%;
+  color: white;
+}
+
+ul li:hover {
+  background:linear-gradient(#707070 0%, #25292e 100%, #757575 0%);
+}
