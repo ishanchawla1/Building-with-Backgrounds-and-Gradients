@@ -1,63 +1,33 @@
-# Project Name
+# Apple.com Clone
 
-> One paragraph statement about the project.
+> This Project was made as part of Microverse Curriculum for Full Stack Developer for Building-with-Backgrounds-and-Gradients project
 
 ![screenshot](./app_screenshot.png)
 
-Additional description about the project and its features.
+This page should look like [this](https://web.archive.org/web/20140301004610/http://www.apple.com/)
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- HTML, CSS
+- Float and Flex
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
+[Live Demo Link](https://rawcdn.githack.com/ishanchawla1/Building-with-Backgrounds-and-Gradients/e7c8775ce79a3710814ac508871c66ed6127574b/index.html)
 
 ## Authors
 
-👤 **Author1**
+👤Ishan Chawla
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/ishanchawla1)
+- Twitter: [@twitterhandle](https://twitter.com/Ishanchawla1884)
+- Linkedin: [linkedin](https://www.linkedin.com/in/ishan-chawla-232988b5/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/ishanchawla1/Building-with-Backgrounds-and-Gradients/issues/).
 
 ## Show your support
 
