@@ -150,7 +150,7 @@
 }
 
 .footerLeft p a:hover,
-.thirdText h3 a:hover
+.thirdText h3 a:hover,
 .footerRight ul li a:hover {
   text-decoration: underline;
 }
