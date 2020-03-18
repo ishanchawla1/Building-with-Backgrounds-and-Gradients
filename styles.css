@@ -104,8 +104,8 @@
   font-size: 24px;
 }
 
-.mainText h1, 
-.mainText h2, 
+.mainText h1,
+.mainText h2,
 .mainText h3 {
   font-weight: 100;
 }
@@ -149,9 +149,9 @@
   color: #08c;
 }
 
-.footerLeft p a:hover, 
-.footerRight ul li a:hover, 
-.thirdText h3 a:hover {
+.footerLeft p a:hover,
+.thirdText h3 a:hover
+.footerRight ul li a:hover {
   text-decoration: underline;
 }
 
