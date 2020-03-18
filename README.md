@@ -13,7 +13,7 @@ This page should look like [this](https://web.archive.org/web/20140301004610/htt
 
 ## Live Demo
 
-[Live Demo Link](https://rawcdn.githack.com/ishanchawla1/Building-with-Backgrounds-and-Gradients/28be0fb417170af7eef4707159ea2438e8a0808d/index.html)
+[Live Demo Link](https://rawcdn.githack.com/ishanchawla1/Building-with-Backgrounds-and-Gradients/e7c8775ce79a3710814ac508871c66ed6127574b/index.html)
 
 ## Authors
 
